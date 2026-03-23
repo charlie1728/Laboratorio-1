@@ -1,0 +1,1 @@
+{"capacity": 16, "threshold": 0.7, "size": 0, "entries": [], "stats": {"total_collisions": 0, "rehash_count": 0, "total_puts": 0, "total_gets": 0}}
